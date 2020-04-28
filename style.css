@@ -55,10 +55,10 @@ h2 {
     visibility: hidden;
 }
 
-.form-inputs.success input{
+.form-inputs input.success{
     border-color: lightgreen;
 }
-.form-inputs.fail input{
+.form-inputs input.fail{
     border-color: red;
 }
 .form-inputs small {
